@@ -3,4 +3,7 @@ name = "hello-rust"
 version = "0.1.0"
 authors = ["delta4d <delta4d@gmail.com>"]
 
+description = "hello rust package on crates.io"
+license = "MIT"
+
 [dependencies]
