@@ -1,5 +1,5 @@
 [package]
-name = "hello-rust"
+name = "hello-crates"
 version = "0.1.0"
 authors = ["delta4d <delta4d@gmail.com>"]
 
